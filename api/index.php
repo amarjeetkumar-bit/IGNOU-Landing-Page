@@ -437,10 +437,10 @@
                 <p>IGNOU is approved and accredited by India's top education bodies — your degree is valid nationwide and globally.</p>
 
                 <div class="accred-grid">
-                    <div class="accred-item"><img src="images/naac.webp" alt="NAAC A++"></div>
+                    <div class="accred-item"><img src="/Images/naac.webp" alt="NAAC A++"></div>
                     <div class="accred-item"><img src="/Images/UGC-logo-png.webp" alt="UGC"></div>
-                    <div class="accred-item"><img src="images/wes.webp" alt="WES"></div>
-                    <div class="accred-item"><img src="images/mhrd.webp" alt="MHRD"></div>
+                    <div class="accred-item"><img src="/Images/wes.webp" alt="WES"></div>
+                    <div class="accred-item"><img src="/Images/mhrd.webp" alt="MHRD"></div>
                 </div>
 
                 <a href="#apply" class="btn btn-amber" style="width:100%;margin-top:4px">Request a Callback</a>
