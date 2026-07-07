@@ -314,7 +314,7 @@
     <header>
         <div class="container navbar">
             <a href="javascript:void(0);" class="brand" aria-label="IGNOU home">
-                <img src="images/ignou-des-logo.webp" alt="IGNOU — Indira Gandhi National Open University">
+                <img src="/Images/ignou-des-logo.webp" alt="IGNOU — Indira Gandhi National Open University">
             </a>
 
             <nav aria-label="Primary">
@@ -578,7 +578,7 @@
             </div>
 
             <div class="cert-frame">
-                <img src="images/sample-degree.webp" alt="IGNOU Degree Certificate sample">
+                <img src="/Images/sample-degree.webp" alt="IGNOU Degree Certificate sample">
             </div>
         </div>
     </section>
@@ -747,7 +747,7 @@
             <div class="foot-grid">
                 <div>
                     <a href="javascript:void(0);" class="brand" aria-label="IGNOU home" style="margin-bottom:12px">
-                        <img src="images/Ignous-logo.webp" alt="IGNOU — Indira Gandhi National Open University">
+                        <img src="/Images/Ignous-logo.webp" alt="IGNOU — Indira Gandhi National Open University">
                     </a>
                     <p style="font-size:.88rem;max-width:34ch">India's national open university — flexible, recognised, affordable higher education.</p>
                 </div>
